@@ -1,0 +1,64 @@
+.heading-text{
+    text-align: center;
+}
+.under-head{
+    text-align: center;
+    opacity: 60%;
+}
+.company-1{
+    margin-left:725px;
+}
+.company{
+    margin-left: 60px;
+}
+img{
+    margin: 5px;
+}
+.container{
+    display: flex;
+}
+
+.free-plan{
+    margin-left: 500px;
+    border: solid;
+    border-left-color: lightgray;
+    border-top-color: lightgray;
+    border-bottom-color: lightgray;
+    border-right: green;
+}
+
+.premium-plan{
+    border: solid;
+    border-color: green;
+}
+
+.buisness-plan{
+    border: solid;
+    border-right-color: lightgray;
+    border-top-color: lightgray;
+    border-bottom-color: lightgray;
+    border-left: green;
+    margin-right: 500px;
+}
+.general{
+    margin: 15px;
+}
+.button{
+    text-align: center;
+}
+.free-button{
+    color: green;
+    text-align: center;
+    width: 250px;
+}
+.premium-button{
+    background-color: green;
+    color: white;
+    text-align: center;
+    width: 250px;
+}
+.buisness-button{
+    color: green;
+    text-align: center;
+    width: 250px;
+}
